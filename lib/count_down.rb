@@ -2,4 +2,6 @@
 
 num = 10 
 
-while 
+while num > 1 
+  puts num
+endputs "Happy New Year"
